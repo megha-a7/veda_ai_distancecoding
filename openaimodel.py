@@ -2,7 +2,7 @@ import openai
 import re
 import pickle
 
-openai.api_key = "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"
+openai.api_key = "..."
 
 # Define a function to ask GPT-3 for a response
 def ask_gpt(prompt, model, temperature, max_tokens):
